@@ -1,7 +1,20 @@
+/* google font */
+.font-for-full-web{
+    font-family: 'Poppins', sans-serif;
+}
 .google-font-for-slider{
     font-family: 'Playfair Display', serif;
     color: rgb(255, 255, 255);
     font-size: 45px;
     font-weight: 500;
     color: wi;
+}
+/* slider button */
+.slider-batton{
+padding: 10px 25px;
+border-radius: 15px;
+background-color: rgb(255, 255, 255);
+font-weight: 600;
+box-shadow: 1px 1px 10px rgb(68, 68, 67);
+color: rgb(1, 1, 161);
 }
