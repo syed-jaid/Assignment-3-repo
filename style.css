@@ -1,4 +1,6 @@
-/* google font */
+/*-------------------
+ google font
+ ------------------ */
 .font-for-full-web{
     font-family: 'Poppins', sans-serif;
 }
@@ -9,12 +11,35 @@
     font-weight: 500;
     color: wi;
 }
-/* slider button */
+/*-----------------
+ slider button
+  ------------------*/
 .slider-batton{
-padding: 10px 25px;
-border-radius: 15px;
-background-color: rgb(255, 255, 255);
-font-weight: 600;
-box-shadow: 1px 1px 10px rgb(68, 68, 67);
-color: rgb(1, 1, 161);
+    padding: 10px 25px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    font-weight: 600;
+    box-shadow: 1px 1px 10px rgb(68, 68, 67);
+    color: rgb(1, 1, 161);
 }
+/*------------
+ widding card
+ ------------ */
+ .offer-cadrs{
+background-color: rgb(248, 248, 248);
+border-radius: 24px;
+ }
+.widding-offer-card{
+color: rgb(112, 112, 112);
+font-family: 'Poppins', sans-serif;
+
+}
+.widding-offer-batton{
+padding: 13px 60px;
+background-color: #f496d23b;
+border-radius: 24px;
+margin-top: 14px;
+color:  #3F87F5;
+;
+}
+
