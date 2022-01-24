@@ -66,6 +66,22 @@ display: inline;
 position: absolute;
 left: 230px;
 top:-10px;
+}
+@media only screen and (max-width:650px) {
+    
+    
+    .slider-batton{
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        font-weight: 300;
+        box-shadow: 1px 1px 10px rgb(68, 68, 67);
+        color: rgb(1, 1, 161);
+    }
+    .slider-images-size{
+height: 500px;
+
+    }
+    
 
 }
 
